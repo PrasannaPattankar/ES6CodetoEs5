@@ -10,7 +10,7 @@ npm install --save-dev @babel/core @babel/cli
 npm install @babel/preset-env --save-dev
 
 
-To create one file with name .babelrc in the root folder and write the below code
+create one file with name .babelrc in the root folder and write the below code
 
 
 ...................................
