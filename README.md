@@ -13,7 +13,7 @@ npm install @babel/preset-env --save-dev
 create one file with name .babelrc in the root folder and write the below code
 
 
-...................................
+
 {
   "presets": ["@babel/preset-env"]
 }
